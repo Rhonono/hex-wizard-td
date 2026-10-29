@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+build/
+*.translation
+
+# Imported textures and metadata
+*.import
+
+# OS-specific files
+.DS_Store
+Thumbs.db
